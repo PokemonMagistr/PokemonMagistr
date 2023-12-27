@@ -24,7 +24,7 @@ https://colab.research.google.com/drive/1uOjJtjwW7Wrs8T-fmTBisqQeEg5LDjID?usp=sh
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=EB440B)
-![CSS3](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=css3&logoColor=366AEB)
+![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3&logoColor=366AEB)
 
 ### Связаться со мной
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/danya2608)
