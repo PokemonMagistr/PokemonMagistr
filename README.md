@@ -12,7 +12,7 @@ https://github.com/shaan-kun/battleship
 
 https://github.com/PokemonMagistr/Tanks_back-front
 
-Участие в командном работе по машинному обучению на Python, используя различные методы
+Участие в командной работе по машинному обучению на Python, используя различные методы
 
 https://colab.research.google.com/drive/1uOjJtjwW7Wrs8T-fmTBisqQeEg5LDjID?usp=sharing
 
