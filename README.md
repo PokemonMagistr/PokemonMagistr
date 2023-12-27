@@ -5,12 +5,15 @@
 Я начинающий программист. Стремлюсь расширить свои навыки и опыт в этой области.
 
 Во время обучения принял участие в командном мини проекте, используя php, js
+
 https://github.com/shaan-kun/battleship
 
 Сольное написание веб игры на платформе Asp.NetCore MVC
+
 https://github.com/PokemonMagistr/Tanks_back-front
 
 Участие в командном работе по машинному обучению на Python, используя различные методы
+
 https://colab.research.google.com/drive/1uOjJtjwW7Wrs8T-fmTBisqQeEg5LDjID?usp=sharing
 
 ### Использую языки и технологии:
